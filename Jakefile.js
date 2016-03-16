@@ -22,7 +22,7 @@
 			eqeqeq:true,
 			forin:true,
 			immed:true,
-			latedef:true,
+			latedef:"nofunc",
 			newcap:true,
 			noarg:true,
 			noempty:true,
