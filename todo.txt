@@ -1,3 +1,4 @@
+
 WeeWikiPaint
 
 Minimum Marketing Features:
@@ -14,7 +15,8 @@ User Stories:
 - marketing copy
 
 Engineering Tasks:
-* automated build
+- static code analysis (Lint)
+- Bring in all options
 - continuous integration
 - server-side testing
 - client-side testing
